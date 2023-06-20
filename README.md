@@ -16,6 +16,6 @@ you can reset your game showing the window.
 #by clicking checkmoves you are enable to see wheather your moves are correct or wrong if wrong it will show in red color on that particular button.
 ![6579338e-d34f-43fa-986f-42ae33ee84c4](https://github.com/041090/SUDOKU-GAME/assets/122098925/9f09afc8-6073-4cae-944e-682345b3cc02)
 
-#EXECUTION:-http://github.com/
+# EXECUTION:-http://https://github.com/041090/SUDOKU-GAME
 
 
