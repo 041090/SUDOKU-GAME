@@ -1,6 +1,10 @@
 # SUDOKU-GAME GAME 
 SUDOKU is a game that tests a person’s ingenuity or knowledge !
-sudoku consists of a 9 × 9 grid with numbers appearing in some of the squares. The object of the puzzle is to fill the remaining squares, using all the numbers 1–9 exactly once in each row, column, and the nine 3 × 3 subgrids.
+# The Sudoku Solver Java project uses Java Swing as the GUI toolkit and Apache NetBeans as the Integrated Development Environment (IDE).
+# Java Swing is a powerful GUI toolkit for Java that provides a collection of graphical user interface (GUI) components such as buttons, labels, text fields, etc., which are used to create visually appealing and interactive applications in Java.
+# Apache NetBeans is an open-source integrated development environment (IDE) that enables developers to write, compile, debug, and deploy Java applications faster and more efficiently. It offers a rich set of tools and features, including code editing, debugging, profiling, refactoring, and version control.Both Java Swing and Apache NetBeans are widely used in Java application development, and they provide many benefits to developers, including ease of use, flexibility, and robustness.
+## sudoku consists of a 9 × 9 grid with numbers appearing in some of the squares. The object of the puzzle is to fill the remaining squares, using all the numbers 1–9 exactly once in each row, column, and the nine 3 × 3 subgrids.
+
 You can select the numbers from selection button which you see on screen from 1 to 9.
 if you want to reset your game the reset button at the bottom left screen will help you by showing a dailog box click "yes" and you can reset the game.
 ![7f7f4e82-e92e-40c4-8e10-e6f78de7bd83](https://github.com/041090/SUDOKU-GAME/assets/122098925/27d05202-1eb6-447d-a1d9-faa1179981b4)
